@@ -13,9 +13,9 @@ A central composite design was used to build the model, augmenting a full factor
 ## How to run synthetic_ecology_srm.R
 From the terminal, specify input_file.csv as your uncoded rsm input data, and output_file.pdf as desired rsm data image file output. 
 
-Sample code:
-drive@user_name ~/filepath
-$ Rscript --vanilla synthetic_ecology_srm.R input_file.csv output_file.pdf
+Sample code:  
+drive@user_name ~/filepath  
+$ Rscript --vanilla synthetic_ecology_srm.R input_file.csv output_file.pdf  
 
 ## Contact me
 reyallen@users.noreply.github.com
