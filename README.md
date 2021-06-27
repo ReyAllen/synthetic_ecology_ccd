@@ -15,6 +15,7 @@ Navigate to a folder containing the R script file, and your data file in .csv fo
 Modify line 33 of R script so that the factor names (column headers) of your data file match the desired variable names (x1 = 'salt', etc.).  
 From the terminal, specify your_file_name.csv as your uncoded rsm input data, and your_file_name.pdf as desired rsm data image file output.  
 Additional output plot for model adequacy checking is automatically generated.  
+Code is provided for either 2-factor or 3-factor rsm; 2-factor is the default. 
 
 Sample:   
 
