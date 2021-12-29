@@ -17,7 +17,7 @@ From the terminal, specify your_file_name.csv as your uncoded rsm input data, an
 Additional output plot for model adequacy checking is automatically generated.  
 Code is provided for either 2-factor or 3-factor rsm; 2-factor is the default. 
 
-Sample:   
+Use case:   
 
 drive@user_name /filepath ~  
 $ Rscript --vanilla synthetic_ecology_ccd.R input_file.csv output_file.pdf  
