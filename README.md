@@ -23,4 +23,4 @@ drive@user_name /filepath ~
 $ Rscript --vanilla synthetic_ecology_ccd.R input_file.csv output_file.pdf  
 
 ## Contact me
-reyallen@users.noreply.github.com  
+31254709+RhysCAllen@users.noreply.github.com  
