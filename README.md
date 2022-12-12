@@ -19,7 +19,7 @@ Code is provided for either 2-factor or 3-factor rsm; 2-factor is the default.
 
 Use case:   
 
-drive@user_name /filepath ~  
+drive@user_name ~/filepath   
 $ Rscript --vanilla synthetic_ecology_ccd.R input_file.csv output_file.pdf  
 
 ## Contact me
