@@ -24,3 +24,7 @@ $ Rscript --vanilla synthetic_ecology_ccd.R input_file.csv output_file.pdf
 
 ## Contact me
 31254709+RhysCAllen@users.noreply.github.com  
+
+## Example Output: SRM plot
+
+<img src="https://github.com/RhysCAllen/synthetic_ecology_ccd/blob/master/rainbow%20srm.png" alt="Sample RSM Plot" title="Consortia Growth Response Model">
