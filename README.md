@@ -27,4 +27,4 @@ $ Rscript --vanilla synthetic_ecology_ccd.R input_file.csv output_file.pdf
 
 ## Example Output: SRM plot
 
-<img src="https://github.com/RhysCAllen/synthetic_ecology_ccd/blob/master/rainbow_srm.png" width=700 align=left alt="Sample RSM Plot" title="Consortia Growth Response Model">
+<img src="https://github.com/RhysCAllen/synthetic_ecology_ccd/blob/master/rainbow_srm.png" width=700 align=left alt="Kan in ug/mL; salt in Molarity" title="Consortia Growth Response Model">
